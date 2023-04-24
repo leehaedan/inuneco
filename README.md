@@ -1,2 +1,2 @@
 # inuneco
-https://leehaedan.github.io/inuneco/index.html
+https://leehaedan.github.io/inuneco/
