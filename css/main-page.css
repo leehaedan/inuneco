@@ -167,8 +167,7 @@ a:hover {
 }
 
 .title-product-dogimg1 {
-    background: url('../img/main-title/now사료.png') no-repeat;
-    background: url('../img/main-title/now사료.png') no-repeat;
+    background-image: url('../img/main-title/now사료.png');
 }
 
 .title-product-dogimg1:hover {
