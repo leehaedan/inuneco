@@ -167,60 +167,50 @@ a:hover {
 }
 
 .title-product-dogimg1 {
-    background-image: url('../img/main-title/now.png');
+    background: url('../img/main-title/hit1.png') no-repeat;
 }
 
 .title-product-dogimg1:hover {
-    background-image: url('../img/main-title/nowh.png');
+    background: url('../img/main-title/hit1h.png') no-repeat;
 }
 
 .title-product-dogimg2 {
-    background: url('../img/main-title/호랑이패드.png') no-repeat;
-    background: url('../img/main-title/호랑이패드.png') no-repeat;
+    background: url('../img/main-title/hit2.png') no-repeat;
 }
 
 .title-product-dogimg2:hover {
-    background: url('../img/main-title/호랑이패드h.png') no-repeat;
-    background: url('../img/main-title/호랑이패드h.png') no-repeat;
+    background: url('../img/main-title/hit2h.png') no-repeat;
 }
 
 .title-product-dogimg3 {
-    background: url('../img/main-title/진짜육포2.png') no-repeat;
-    background: url('../img/main-title/진짜육포2.png') no-repeat;
+    background: url('../img/main-title/hit3.png') no-repeat;
 }
 
 .title-product-dogimg3:hover {
-    background: url('../img/main-title/진짜육포2h.png') no-repeat;
-    background: url('../img/main-title/진짜육포2h.png') no-repeat;
+    background: url('../img/main-title/hit3h.png') no-repeat;
 }
 .title-product-catimg1 {
-    background: url('../img/main-title/고양이츄르.png') no-repeat;
-    background: url('../img/main-title/고양이츄르.png') no-repeat;
+    background: url('../img/main-title/c-hit1.png') no-repeat;
 }
 
 .title-product-catimg1:hover {
-    background: url('../img/main-title/고양이츄르h.png') no-repeat;
-    background: url('../img/main-title/고양이츄르h.png') no-repeat;
+    background: url('../img/main-title/c-hit1h.png') no-repeat;
 }
 
 .title-product-catimg2 {
-    background: url('../img/main-title/고양이사료.png') no-repeat;
-    background: url('../img/main-title/고양이사료.png') no-repeat;
+    background: url('../img/main-title/c-hit2.png') no-repeat;
 }
 
 .title-product-catimg2:hover {
-    background: url('../img/main-title/고양이사료h.png') no-repeat;
-    background: url('../img/main-title/고양이사료h.png') no-repeat;
+    background: url('../img/main-title/c-hit2h.png') no-repeat;
 }
 
 .title-product-catimg3 {
-    background: url('../img/main-title/고양이모래.png') no-repeat;
-    background: url('../img/main-title/고양이모래.png') no-repeat;
+    background: url('../img/main-title/c-hit3.png') no-repeat;
 }
 
 .title-product-catimg3:hover {
-    background: url('../img/main-title/고양이모래h.png') no-repeat;
-    background: url('../img/main-title/고양이모래h.png') no-repeat;
+    background: url('../img/main-title/c-hit3h.png') no-repeat;
 }
 
 .title-product-brand {
